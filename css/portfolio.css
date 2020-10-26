@@ -1,0 +1,90 @@
+#hii {
+    height: 1200px;
+}
+
+#fourth-slide {
+    text-align: center;
+}
+
+.fourth-content {
+    padding: 15px 30px;
+}
+
+.fourth-content .project-item {
+    margin: 15px 0px;
+}
+
+.fourth-content img {
+    overflow: hidden;
+    width: 100%;
+}
+
+#fourth-slide .primary-button a {
+    text-decoration: none;
+}
+
+
+/* MEDIA QUERIES */
+
+
+/* SMALL SCREEN */
+
+@media all and (min-width: 0px) and (max-width: 320px) {
+    #hii {
+        height: 3300px;
+    }
+}
+
+@media all and (min-width: 321px) and (max-width: 375px) {
+    #hii {
+        height: 4030px;
+    }
+}
+
+@media all and (min-width: 376px) and (max-width: 425px) {
+    #hii {
+        height: 4700px;
+    }
+}
+
+@media all and (min-width: 426px) and (max-width: 475px) {
+    #hii {
+        height: 5350px;
+    }
+}
+
+@media all and (min-width: 476px) and (max-width: 525px) {
+    #hii {
+        height: 6000px;
+    }
+}
+
+@media all and (min-width: 526px) and (max-width: 575px) {
+    #hii {
+        height: 6700px;
+    }
+}
+
+@media all and (min-width: 576px) and (max-width: 625px) {
+    #hii {
+        height: 7300px;
+    }
+}
+
+@media all and (min-width: 626px) and (max-width: 675px) {
+    #hii {
+        height: 7900px;
+    }
+}
+
+@media all and (min-width: 676px) and (max-width: 767px) {
+    #hii {
+        height: 9100px;
+    }
+}
+
+@media all and (min-width: 768px) and (max-width: 991px) {
+    #hii {
+        height: 9500px;
+    }
+}

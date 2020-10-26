@@ -1,0 +1,16 @@
+:root {
+    --primary-color: #15205b;
+    --secondary-color: #192734;
+    --border-color: #164D56;
+    --primary-text: #fff;
+    --primary-text-1: #eeeeee;
+    --secondary-bg: #3a576f;
+    --themedotborder: #ffffff;
+    --preview-shadow: #111921;
+    --preview-color: rgba(25, 39, 52, 0.8);
+    --buttonColor: #17a2b8;
+    --hover-color: #2469b8;
+    --font-family1: 'Red Rose', cursive;
+    --font-family2: 'Lemonada', cursive;
+    --font-family3: 'Ubuntu', sans-serif;
+}
